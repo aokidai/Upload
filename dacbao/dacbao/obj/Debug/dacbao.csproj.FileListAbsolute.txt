@@ -1,0 +1,10 @@
+D:\dacbao\dacbao\bin\Debug\dacbao.exe.config
+D:\dacbao\dacbao\bin\Debug\dacbao.exe
+D:\dacbao\dacbao\bin\Debug\dacbao.pdb
+D:\dacbao\dacbao\obj\Debug\dacbao.csprojAssemblyReference.cache
+D:\dacbao\dacbao\obj\Debug\dacbao.Form1.resources
+D:\dacbao\dacbao\obj\Debug\dacbao.Properties.Resources.resources
+D:\dacbao\dacbao\obj\Debug\dacbao.csproj.GenerateResource.cache
+D:\dacbao\dacbao\obj\Debug\dacbao.csproj.CoreCompileInputs.cache
+D:\dacbao\dacbao\obj\Debug\dacbao.exe
+D:\dacbao\dacbao\obj\Debug\dacbao.pdb
